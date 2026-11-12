@@ -8,7 +8,7 @@ Fall 2026
 - __Due__: Thursday, 19th November 2026  
 - __Lab Expiration Date__: Thursday, 26th November 2026
 
-Note: This is a Group work assignment
+Note: This is a Group work assignment. Group sizes are 1 to 3 members.
 
 ![--- --- --- --- --- --- --- --- ---](graphics/byYear.png)
 
