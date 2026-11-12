@@ -127,7 +127,7 @@ Another note: Be sure to include each group member's name and the date on the wr
 
 The grade that a student receives on this assignment will have the following components.
 
-* **Presented work[up to 25%]:** It is essential that students of the course are able to articulate a research project. For this students are to present their work using slides, graphics and information to highlight their efforts. Be sure that slides contain no grammatical or spelling errors which detract from the excitement of your work. In addition, please ensure that you can explain everything that is placed on the slides.
+* **Presented work[up to 25%]:** It is essential that students of the course are able to articulate a research project. For this students are to present their work using slides, graphics and information to highlight their efforts. Be sure that slides contain no grammatical or spelling errors which detract from the excitement of the work. In addition, please ensure that everything that is provided in the slides (e.g., plots, data, analysis and similar) can be fully explained or discussed without difficulty.
 
 * **Mastery of Technical Knowledge and Skills [up to 50%]:** Students will receive a portion of their assignment grade when their program implementation reveals that they have mastered all of the technical knowledge and skills developed during the completion of this assignment. As a part of this grade, the instructor will assess aspects of the programming including, but not limited to, the completeness and the correctness of the program and the use of effective source code comments.
 
