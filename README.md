@@ -127,9 +127,12 @@ Another note: Be sure to include each group member's name and the date on the wr
 
 The grade that a student receives on this assignment will have the following components.
 
-* **Presented work[up to 50%]:** It is essential that students of the course are able to articulate a research project. For this students are to present their work using slides, graphics and information to highlight their efforts. Be sure that slides contain no grammatical or spelling errors which detract from the excitement of your work. In addition, please ensure that you can explain everything that is placed on the slides.
+* **Presented work[up to 25%]:** It is essential that students of the course are able to articulate a research project. For this students are to present their work using slides, graphics and information to highlight their efforts. Be sure that slides contain no grammatical or spelling errors which detract from the excitement of your work. In addition, please ensure that you can explain everything that is placed on the slides.
 
-* **Mastery of Technical Writing [up to 50%]:** Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+* **Mastery of Technical Knowledge and Skills [up to 50%]:** Students will receive a portion of their assignment grade when their program implementation reveals that they have mastered all of the technical knowledge and skills developed during the completion of this assignment. As a part of this grade, the instructor will assess aspects of the programming including, but not limited to, the completeness and the correctness of the program and the use of effective source code comments.
+
+
+* **Mastery of Technical Writing [up to 25%]:** Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
 
 ### Checks for GatorGrade
 
